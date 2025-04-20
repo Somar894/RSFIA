@@ -13,8 +13,10 @@ def save_data(df: pd.DataFrame, path: str):
     df.to_csv(path, index=False)
 
 def main():
-    raw_path   = "../Data/synthetic_retail_sales_data.csv"
-    clean_path = "../Data/cleaned_sales.csv"
+    ‑ raw_path  = Data/synthetic_retail_sales_data.csv  
+    ‑ clean_path = Data/cleaned_sales.csv  
+    + raw_path  = "Data/synthetic_retail_sales_data.csv"
+    + clean_path = "Data/cleaned_sales.csv"
 
     df = load_data(raw_path)
     df_clean = clean_data(df)
