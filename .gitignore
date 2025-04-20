@@ -1,1 +1,13 @@
 # Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
