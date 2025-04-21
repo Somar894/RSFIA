@@ -40,6 +40,10 @@ python SRC/data_pipeline.py
 # Perform EDA
 python SRC/eda.py
 ```
+## Usage
+This project aims to develop a machine learning system that forecasts future product demand by analyzing historical sales data. Accurate demand predictions will enable retailers to optimize inventory levels, minimize operational costs, and enhance the overall customer shopping experience.
+
+The system is designed to support multiple stakeholders across the organization. Store managers can rely on data-driven forecasts to make informed inventory decisions. Supply chain teams will be better equipped to plan procurement and coordinate logistics effectively. Business owners can anticipate reduced costs and improved profit margins, while customers will benefit from consistent product availability and fewer stockouts.
 
 ## Contributors
 1. Sharif Abouomar 
