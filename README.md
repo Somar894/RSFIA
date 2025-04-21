@@ -1,5 +1,8 @@
 # RSFIA
 
+## Project Summary
+This project leverages machine learning, specifically a Random Forest model, to generate accurate sales forecasts and proactively identify inventory risks across 50 products and 10 stores over two years. We ensure data consistency and quality throughout the process using a synthetic dataset and a robust batch ingestion pipeline. Our end-to-end system supports reliable model development and includes data validation, feature engineering, and experiment tracking. By capturing complex retail dynamics such as seasonality and promotions, our ML-driven forecasts help reduce stockouts and overstocking, lower holding costs, and improve overall customer satisfaction through smarter inventory management.
+
 **RSFIA** (Retail Sales Forecasting & Inventory Analytics) is an AI‑powered toolkit designed to streamline inventory management and sharpen retail sales forecasts.  
 Developed by **Group IV**, RSFIA provides:
 
