@@ -36,3 +36,11 @@ python SRC/data_pipeline.py
 
 # Perform EDA
 python SRC/eda.py
+```
+
+## Contributors
+1. Sharif Abouomar 
+2. Randy Mercado Candia
+3. Prisha Srivastava
+4. Shivani Yadav
+5. Zekeriya Karatas
